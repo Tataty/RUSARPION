@@ -27,7 +27,7 @@ Each leg has 3 servo motors (18 total), coordinated via:
 ESP32-CAM provides a **web UI** for user interaction and video streaming.  
 It sends commands over **UART** to STM32, which handles servo control via a **PCA9685** 16-channel PWM driver.
 
-> 🔗 [ESP32 robot with video streaming](https://github.com/yourname/esp32-video-robot) — previous project this builds upon.
+> 🔗 [ESP32 robot with video streaming](https://github.com/Tataty/RUSAUTO) — previous project this builds upon.
 
 ---
 
@@ -53,7 +53,7 @@ It sends commands over **UART** to STM32, which handles servo control via a **PC
 - 🧠 **STM32** розраховує і генерує ШІМ сигнали через **PCA9685**
 - 🌐 **ESP32-CAM** забезпечує відео + керування через браузер
 
-> 🔗 Цей проєкт розширює [попереднього робота з ESP32](https://github.com/Tataty/esp32-video-robot), де досліджувався відеострімінг та веб-керування.
+> 🔗 Цей проєкт розширює [попереднього робота з ESP32](https://github.com/Tataty/RUSAUTO), де досліджувався відеострімінг та веб-керування.
 
 ---
 
